@@ -1,6 +1,6 @@
 example = 'КапибараРуРи'
-print('КапибараРуРи'[0])
-print('КапибараРуРи'[-1])
-print('КапибараРуРи'[5:12]) # 12
-print('КапибараРуРи'[::-1])
-print('КапибараРуРи'[1::2])
+print(example[0])
+print(example[-1])
+print(example[5:12]) # 12
+print(example[::-1])
+print(example[1::2])
